@@ -3,7 +3,7 @@
 // @version      0.1
 // @description  Enable password managers to interact with the password field on the insecure TreasuryDirect website
 // @author       Jason R. Rokeach
-// @supportURL   https://github.com/jrokeach/TDSecFix
+// @supportURL   https://github.com/jrokeach/userscripts
 // @match        https://*.treasurydirect.gov/RS/PW-Display.do
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=treasurydirect.gov
 // @grant        none
