@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Chase Confirm Account Number Fix
-// @version      0.1
+// @version      0.2
 // @description  Enable pasting of confirmed account number into Chase's website.
 // @author       Jason R. Rokeach
 // @supportURL   https://github.com/jrokeach/userscripts
