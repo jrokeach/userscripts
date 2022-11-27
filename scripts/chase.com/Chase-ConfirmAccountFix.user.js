@@ -4,7 +4,7 @@
 // @description  Enable pasting of confirmed account number into Chase's website.
 // @author       Jason R. Rokeach
 // @supportURL   https://github.com/jrokeach/userscripts
-// @match        https://*.chase.com/web/auth/dashboard?*
+// @match        https://*.chase.com/web/auth/dashboard*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=chase.com
 // @grant        none
 // ==/UserScript==
